@@ -10,24 +10,10 @@
     public abstract void creat(user user);
     public void delete(user user)
     {
-
+        Console.WriteLine("sajjad toulabi");
     }
     public virtual void update(user user)
     {
 
-    }
-}
-public class Ss:AbestractuserReposirory 
-{
-    public override string addres2 { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-
-    public override void creat(user user)
-    {
-        throw new NotImplementedException();
-    }
-
-    public override void update(user user)
-    {
-        base.update(user);
     }
 }
