@@ -14,6 +14,9 @@
     }
     public virtual void update(user user)
     {
-
+        Console.WriteLine("sajjad toulabi update");
+        Console.WriteLine("sajjad toulabi update");
+        Console.WriteLine("sajjad toulabi update");
+        Console.WriteLine("sajjad toulabi update");
     }
 }
